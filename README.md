@@ -1,6 +1,6 @@
 # Abdoul Razak Ouedraogo
 
-**Full-stack web developer and digital project manager · Founder of [ARO Web Services](https://arowebservices.com)**
+**Full-stack web developer and digital project manager · Founder of [ARO Web Services](https://arowebservices.com)**<br>
 Laval (Québec), Canada · Français / English
 
 I design, build and manage websites and digital platforms end to end, from needs analysis to launch and training. WordPress is my specialty, and I'm expanding into React and AI-assisted web development. I've been building for the web for 8+ years, and before that I worked as an IT business analyst.
